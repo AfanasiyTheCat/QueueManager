@@ -1,0 +1,13 @@
+{
+    "ru": {
+        "queue_count": "Количество касс",
+        "queue_count_tooltip": "Количество касс которые обслуживают посетителей",
+        "queue_append_period": "Период прихода посетителей",
+        "queue_append_period_tooltip": "Максимальный период между приходом новых посетителей",
+        "queue_append_size": "Количество прихода посетителей",
+        "queue_append_size_tooltip": "Количество посетителей которые периодически приходят",
+        "simulation_start": "Старт",
+        "simulation_pause": "Пауза",
+        "simulation_stop": "Стоп"
+    }
+}
